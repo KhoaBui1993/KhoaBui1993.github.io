@@ -24,7 +24,7 @@ const Contact = () => {
                             <i className="bx bx-mail-send contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Email</h3>
-                            <span className="contact__card-data">user@gmail.com</span>
+                            <span className="contact__card-data">khoathanhbui@gmail.com</span>
 
                             <a href="mailto:khoathanhbui@gmail.com" className="contact__button" target="_blank" rel="noreferrer">Send A Message
                                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
