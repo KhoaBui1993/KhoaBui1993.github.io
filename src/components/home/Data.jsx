@@ -61,7 +61,7 @@ const Data  = () => {
             </svg>
         </h1>
         <h3 className="home__subtitle">{text} <Cursor cursorStyle='<_'/></h3>
-        <p className='home__description'>I'm a new grad student with a goal of becoming a software engineer. I'm interested in programming languages and eager to learn new skills. </p>
+        <p className='home__description'>I'm just a human with a dream of becoming a coding wizard. I'm fascinated by programming languages and always eager to learn new tech—because who wouldn't want to talk to their computer and make it do cool stuff? </p>
 
         <a href="#contact" className="button button--flex">
             Say Hello
